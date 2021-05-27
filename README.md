@@ -1,6 +1,10 @@
 # flutter_composite_pattern
 
-A new Flutter project.
+A simple feed using Composite Patter.
+
+## DEMO
+
+![demo](/images/app_screen.png)
 
 ## Getting Started
 
